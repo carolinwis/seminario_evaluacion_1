@@ -5,11 +5,17 @@
 body{
   font-family: 'Open Sans Condensed', sans-serif;
   font-weight: 400;
-    background-color: #848484;
+    background-color: #6794C4;
+}
+
+.azul{
+    background-color: #3E6A98;
+    color: white;
 }
 
 h5 {
     font-weight: 700;
+    color: #23438D;
 
 }
 
@@ -51,7 +57,7 @@ header .overlay {
   height: 100%;
   width: 100%;
   background-color: black;
-  opacity: 0.5;
+  opacity: 0;
   z-index: 1;
 }
 
@@ -63,4 +69,5 @@ header .overlay {
     display: none;
   }
     
+ 
 }
